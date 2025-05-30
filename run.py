@@ -5,10 +5,16 @@ import argparse
 from dotenv import load_dotenv
 from openai import OpenAI
 
+# Load environment variables from .env unless running on Render
 if os.environ.get("RENDER") != "true":
     load_dotenv()
 
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+# ✅ Explicitly pass the API key
+api_key = os.getenv("OPENAI_API_KEY")
+if not api_key:
+    raise ValueError("OPENAI_API_KEY not found. Make sure it's in your .env file.")
+
+client = OpenAI(api_key=api_key)
 
 def load_yaml(path):
     with open(path, "r") as f:

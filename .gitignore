@@ -151,3 +151,5 @@ cython_debug/
 # PyPI
 .pypirc.env
 .env
+.env
+.env.save*
