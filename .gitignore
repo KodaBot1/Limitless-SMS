@@ -149,4 +149,4 @@ cython_debug/
 .ruff_cache/
 
 # PyPI
-.pypirc
+.pypirc.env
