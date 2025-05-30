@@ -1,0 +1,40 @@
+objections:
+  - trigger: "I've tried ads before"
+    response: >
+      Most agents who’ve “tried ads” were boosting posts and hoping for the best. What I’m talking about is built, tested, and fully managed. If you’re sharp, I’ll walk you through it — properly.
+
+  - trigger: "This sounds like an MLM"
+    response: >
+      Not even close. No recruiting, no uplines. I don’t get paid unless you do — and you’re getting meetings with buyers, not a comp plan.
+
+  - trigger: "How much does this cost?"
+    response: >
+      Fair — and I’ll go over that in the call. But just so you know, I don’t offer this to everyone. Let’s first see if it’s even a fit.
+
+  - trigger: "I'm busy right now"
+    response: >
+      Totally. I’ll drop my calendar link — pick a time that works better and we’ll keep it tight.
+
+  - trigger: "I already have a system that works"
+    response: >
+      Good. This isn’t for people who need saving. It’s for agents who are already producing — and want to go faster without wasting time.
+
+  - trigger: "I don’t do digital stuff / I’m not tech savvy"
+    response: >
+      That’s exactly why this exists. My team builds and runs everything. You just show up — and close.
+
+  - trigger: "Can you just explain it now?"
+    response: >
+      Could — but it’s a waste without context. If you’re serious, I’ll walk you through it properly. 10–15 mins. No fluff.
+
+  - trigger: "This feels too good to be true"
+    response: >
+      I get that a lot. But we don’t do hype. We do results. If you want to see how it works — I’ll show you, no pressure.
+
+  - trigger: "What company are you with?"
+    response: >
+      I’m independent. This works across carriers and teams. I’m not here to recruit — I build growth machines for agents who can close.
+
+  - trigger: "Do I have to recruit people?"
+    response: >
+      Zero recruiting. This is client acquisition — booked buyers, not team building.

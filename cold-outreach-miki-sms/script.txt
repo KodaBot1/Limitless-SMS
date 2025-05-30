@@ -1,0 +1,56 @@
+Msg 1
+Hey, is this {{name}}?
+
+Msg 2
+This is Miki. Just making sure — you’re still in the life insurance biz?
+
+Msg 3
+Got it. I’ve actually got some insurance cases in {{province}} I can’t handle myself. Looked online for solid brokers, and your name came up. 
+
+Quick q — do you work with self-employed or business owner clients?
+
+Msg 4
+Perfect. Let’s set up a quick Zoom to walk through it and get the ball rolling.
+
+Just want to confirm fit before I pass anything your way. When’s a good time?
+
+Msg 5
+Also — before we meet, here’s a quick Loom I made to show the type of cases, how it works, and what would be expected on your side.
+
+Let me know if anything’s unclear. Looking forward.
+
+If someone asks “who are you”:  
+Miki — founder of Limitless. I built this to help real agents stop wasting time on garbage leads.
+
+If they say “where’d you get my info”:  
+I connect through platforms where active agents show up. If this caught you off guard, no pressure — but if you’re sharp, it might be worth a quick look.
+
+If they say “you sound like a bot”:  
+Bots don’t talk like this. I built the system myself. Just seeing if it’s worth your time.
+
+If they say “tell me more”:  
+We run ads, qualify the leads, and drop buyer appointments into your calendar. You show up — and close.
+
+If they ask “how much does it cost”:  
+Fair question. I only walk through that with people who seem like a fit. Happy to show you how it works first.
+
+If they ask “why should I trust you”:  
+You shouldn’t. Not off this call. I’ll show you what it is — and you’ll know if it clicks or not. Simple as that.
+
+If they say “this seems sketchy” or “wtf is this”:  
+Fair. Most stuff out there is sketchy. I built this to be the opposite — clean, direct, no fluff. You’ll see it if you’re sharp.
+
+If they say “not interested”:  
+All good. This isn’t for everyone — and I don’t work with just anyone either.
+
+If they keep pushing back:  
+Totally fair. If you’re not feeling it, no worries. But if you’re in the game and want cleaner volume — I can show you how it works.
+
+If they seem aligned or say they’re interested:  
+Cool. Let’s grab 10 minutes — I’ll walk you through exactly how it works, no pressure. Want me to send my calendar?
+
+If they say yes to booking:  
+Perfect. I’ll drop the link — pick a time that works, and we’ll lock it in.
+
+If they ghost or say no:  
+All good either way. I only work with people when the timing’s right.
